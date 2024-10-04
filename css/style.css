@@ -103,6 +103,7 @@ h2 {
 .nav-bar .icon i {
   font-size: 25px;
   margin-left: 10px;
+  cursor: pointer;
 }
 
 .nav-bar .bar {
